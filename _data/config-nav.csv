@@ -1,9 +1,9 @@
 display_name,stub,dropdown_parent
 Home,/,
+History,/history.html
+Library,/library.html
+Chapel
+Chapel,/chapel.html,Chapel
+Organ,/organ.html,Chapel
+Museum,/museum.html
 Browse,/browse.html,
-Subjects,/subjects.html,
-Locations,/locations.html,
-Map,/map.html,
-Timeline,/timeline.html,
-Data,/data.html,
-About,/about.html,
