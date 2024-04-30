@@ -16,7 +16,35 @@ The organ was installed in an alcove provided by the architect on the north wall
 
 The new instrument was celebrated in a dedicatory recital given on May 16, 1895 by Mr. Herbert Oldham, F.S.Sc., of Le Mars, Iowa. Educated at the London College of Music, Mr. Oldham directed a music conservatory in Le Mars, and was widely known as a brilliant performer on the pipe organ. No evidence survives in the archives of either Westmar College or Le Mars Public Library concerning Mr. Oldham or his conservatory. However, the Iowa Agricultural College Student published the recital program for that evening's 'Grand Organ Opening Concert':
 
-#### Part I
+
+<div class="text-center">
+    <div class="row">
+        <div class="col-md-12">
+            <p class="fw-bold fs-1">Part I</p>
+            <p class="fw-bold">1. Organ solo</p>
+        </div>
+        <div class="col-md-6">
+            <p>Triumphlied</p>
+            <p>Reverie</p>
+        </div>
+        <div class="col-md-6">
+            <p>Victor Ernst Nessler (1841-1890)</p>
+            <p>Gustave de Lille</p>
+        </div>
+    </div>
+        <div class="row">
+        <div class="col-md-12">
+            <p class="fw-bold">2.  Song (organ & piano acc.)</p>
+        </div>
+        <div class="col-md-6">
+            <p>Sancta Maria</p>
+        </div>
+        <div class="col-md-6">
+            <p>Jean-Baptiste Fauré (1830-1914)</p>
+        </div>
+    </div>
+</div>
+
 
 | 1. Organ solo | |
 |----------|----------|
@@ -31,6 +59,8 @@ The new instrument was celebrated in a dedicatory recital given on May 16, 1895 
 |----------|----------|
 | Funeral March | Frédéric Chopin (1810-1849) |
 | Wedding March | August Johan Södermann (1832-1876) |
+
+
 
 #### Part II
 
