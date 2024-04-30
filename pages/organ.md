@@ -12,6 +12,16 @@ credits: false
 
 This brief historical sketch begins in 1891 with the completion of the construction of Morrill Hall and the recorded sale of "the old organ" which had been used in Old Main. The minutes of the Board of Trustees meeting on December 14, 1894 note that Pres. William M. Beardshear and Trustee C.F. Saylor were appointed to a committee to purchase a chapel organ, and that the sum of $2000, in addition to the $300 obtained from the sale of the old organ, was authorized. In 1895, the firm of Henry Pilcher's Sons of Louisville, Kentucky was selected to provide the instrument. The founder of this respected organ building company had operated in Dover, England in 1820. Twelve years later, he emigrated to the U.S. where he built organs with his sons until his retirement in 1859. His successors were his sons and grandsons who eventually sold the business to M.P. Moeller in 1944.
 
+{% include feature/image.html objectid="/assets/img/organpipe1.jpg" %}
+
+{% include feature/image.html objectid="/assets/img/organpipe2.jpg" %}
+
+{% include feature/image.html objectid="/assets/img/organpipe3.jpg" %}
+
+{% include feature/image.html objectid="/assets/img/organpipe4.jpg" %}
+
+{% include feature/image.html objectid="/assets/img/organpipe5.jpg" %}
+
 The organ was installed in an alcove provided by the architect on the north wall of the second-floor chapel. Two manuals and pedal keyboard controlled perhaps 17 ranks of pipes using a tubular-pneumatic action. Upwards of 1,000 pipes would have been mounted on windchests behind the display pipes seen in vintage photos of the chapel. One undated early photo in University Archives clearly shows the organ case with its 36 painted and stenciled façade pipes, barely visible swell box, attached keydesk, and about 21 drawknobs. In another photo may be seen the foot-operated lever which would have been pumped by an assistant to provide a steady supply of wind to the reservoir and windchests. The designated 'bellows boy' would have been alerted by the organist to pump faster when more wind pressure was needed for performing rapid passages or large chords.
 
 The new instrument was celebrated in a dedicatory recital given on May 16, 1895 by Mr. Herbert Oldham, F.S.Sc., of Le Mars, Iowa. Educated at the London College of Music, Mr. Oldham directed a music conservatory in Le Mars, and was widely known as a brilliant performer on the pipe organ. No evidence survives in the archives of either Westmar College or Le Mars Public Library concerning Mr. Oldham or his conservatory. However, the Iowa Agricultural College Student published the recital program for that evening's 'Grand Organ Opening Concert':
@@ -43,8 +53,64 @@ The new instrument was celebrated in a dedicatory recital given on May 16, 1895 
             <p>Jean-Baptiste Fauré (1830-1914)</p>
         </div>
     </div>
+    <div class="row">
+        <div class="col-md-12">
+            <p class="fw-bold">3.  Organ solo</p>
+        </div>
+        <div class="col-md-6">
+            <p>Funeral March</p>
+        </div>
+        <div class="col-md-6">
+            <p>Frédéric Chopin (1810-1849)</p>
+        </div>
+        <div class="col-md-6">
+            <p>Wedding March</p>
+        </div>
+        <div class="col-md-6">
+            <p>August Johan Södermann (1832-1876)</p>
+        </div>
+    </div>
 </div>
-
+<div class="text-center">
+    <div class="row">
+        <div class="col-md-12">
+            <p class="fw-bold fs-1">Part II</p>
+            <p class="fw-bold">1. Organ solo</p>
+        </div>
+        <div class="col-md-6">
+            <p>Etude</p>
+            <p>Phantom March</p>
+        </div>
+        <div class="col-md-6">
+            <p>Joseph Joachim Raff (1822-1882)</p>
+            <p>Robert Schumann (1810-1856)</p>
+        </div>
+    </div>
+        <div class="row">
+        <div class="col-md-12">
+            <p class="fw-bold">2.  Piano and organ duet</p>
+        </div>
+        <div class="col-md-6">
+            <p>Arrangement from Faust</p>
+        </div>
+        <div class="col-md-6">
+            <p>Eugene Ketterer (1831-1870) and Marie Auguste Durand (1830-1909)</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <p class="fw-bold">3.  Organ solo</p>
+        </div>
+        <div class="col-md-6">
+            <p>Andante</p>
+            <p>Zampa</p>
+        </div>
+        <div class="col-md-6">
+            <p>Louis James Alfred Lefébure-Wély (1817-1869)</p>
+            <p>Louis Joseph Ferdinand Hérold (1791-1833)</p>
+        </div>
+    </div>
+</div>
 
 | 1. Organ solo | |
 |----------|----------|
@@ -67,7 +133,7 @@ The new instrument was celebrated in a dedicatory recital given on May 16, 1895 
 | 1. Organ solo | |
 |----------|----------|
 | Etude | Joseph Joachim Raff (1822-1882) |
-| Phantom | March Robert Schumann (1810-1856) |
+| Phantom March | Robert Schumann (1810-1856) |
 
 | 2. Piano and organ duet | |
 |----------|----------|
